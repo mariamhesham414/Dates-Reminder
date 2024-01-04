@@ -21,3 +21,20 @@
   font-size: 600;
   margin-bottom: 20px;
 }
+
+.btn-style {
+  width: 200px;
+  border-radius: 8px;
+  color: white;
+  background-color: #224f61;
+}
+
+.img-avatar {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+.mt-0 {
+  margin-top: 0;
+}
